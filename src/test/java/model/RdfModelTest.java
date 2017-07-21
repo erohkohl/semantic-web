@@ -15,7 +15,6 @@ public class RdfModelTest {
     private List<State> stateList2012, stateList2016;
     private OntModel ontModel;
 
-
     @Before
     public void initTest() {
         State stateOne = new State("Nebraska", "6,0", "3");

@@ -5,7 +5,6 @@ public class State implements Comparable<State> {
     private String name;
     private int registeredWeapons;
     private int numberOfMilitaryFatalities;
-
     private double percentUnemploymentRate;
     private UsElection election;
 
